@@ -1,1 +1,2 @@
 # leetcode-learning
+记录下从2025年12月26日一直到揾到工作的leetcode刷题日常
